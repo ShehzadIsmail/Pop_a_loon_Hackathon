@@ -1,0 +1,18 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(67, 231, 218);
+}
+#balloons-space{
+    margin-left: 370px;
+}
+
+#balloons-space img {
+    max-height: 80px;
+    margin: 50px;
+}
+.btn-next{
+    position: absolute;
+    top: auto;
+    right: 20px;
+
+}
